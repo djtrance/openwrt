@@ -2,7 +2,7 @@
 OpenWrt related projects.
 
 ## opencv_libs ##
-Opencv libraries compiled for OpenWrt
+Opencv libraries compiled for OpenWrt  
 See [http://mark4h.blogspot.com/](http://mark4h.blogspot.com/) for more details.
 
 ### ar71xx-WR703N ###
