@@ -1,0 +1,5 @@
+  set( CMAKE_SYSTEM_NAME Linux )
+  set( CMAKE_SYSTEM_PROCESSOR mips )
+  set( CMAKE_C_COMPILER mips-openwrt-linux-uclibc-gcc )
+  set( CMAKE_CXX_COMPILER mips-openwrt-linux-uclibc-g++ )
+  set( CMAKE_FIND_ROOT_PATH /home/user/WR703N_opencv/OpenWrt-Toolchain-ar71xx-for-mips_r2-gcc-4.6-linaro_uClibc-0.9.33.2/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/ )
